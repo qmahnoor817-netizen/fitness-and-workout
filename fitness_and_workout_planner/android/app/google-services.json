@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699064968074",
+    "project_id": "fitness-and-workout-c0a97",
+    "storage_bucket": "fitness-and-workout-c0a97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699064968074:android:a6dce7a14849dd2a2e5e73",
+        "android_client_info": {
+          "package_name": "com.example.fitness_and_workout_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW41cSV6Q_YfuF9Ih900Md5Y4R4jBe3pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
